@@ -5,5 +5,7 @@ These labs draw from Dan Borges's book, *[Adversarial Tradecraft in Cybersecurit
 
 ## Navigation
 Phase 1 Lab: Networks, services, and compromise
+
 Phase 2 Lab: Service exploitation, SIEM/EDRs, and C2 frameworks
+
 Phase 3 Lab: Honey trapping, TODO
