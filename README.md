@@ -9,7 +9,8 @@ Learning computer network security is hard. Partly, this is due to the many face
 <br>
 <br>
 But there lies another, more pressing road block to network security learning: the access to free, comprehensive learning resources. Adversarial Labs seeks to contribute to the emergence of free/affordable resources based on the fundamental belief that no one should be prevented from pursuing their passion based on a lack of funds.
-
+<br>
+<br>
 Beyond this lies one more theme: Network security learning is all too often separated strictly into "offensive" and "defensive" tracks. The goal with Adversarial Labs, in addition to providing freely accessible learning materials, is to demonstrate that a complete understanding can and should be obtained by combining *both* the offense and defense at the same time. In doing so, it seeks to provide a holistic approach to computer network security that leaves students with a more realistic outlook on the sphere of live cybersecurity conflict.
 
 
