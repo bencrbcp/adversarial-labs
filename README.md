@@ -30,6 +30,6 @@ Beyond this lies one more theme: Network security learning is all too often sepa
 - [x] Implement the technical configuration of VMs that support the learning outcomes of the first 3 labs.
 - [x] Deploy on a locally-owned hypervisor (ESXi) as a proof-of-concept
 
-## TODO
+### TODO
 - [ ] Write instructor resources to provision and teach the labs for students. This would involve a solution guide, as well as configuration details for each machine.
 - [ ] Deploy on a publicly accessible hypervisor/other provisioning solution
