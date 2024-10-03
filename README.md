@@ -4,6 +4,7 @@ Attack vs. defense labs to train for live cybersecurity conflict. Free, for ever
 These labs draw from Dan Borges's book, *[Adversarial Tradecraft in Cybersecurity](https://www.packtpub.com/en-us/product/adversarial-tradecraft-in-cybersecurity-9781801076203)*.
 
 ## Introduction
+![Lab logo](https://i.imgur.com/6V5FWav.png)
 Learning computer network security is hard. Partly, this is due to the many facets of computer science that are involved, and the intersecting I.T. concepts that one must have a background knowledge in.
 
 But there lies another, more pressing road block to network security learning: the access to free, comprehensive learning resources. Adversarial Labs seeks to contribute to the emergence of free/affordable resources based on the fundamental belief that no one should be prevented from pursuing their passion based on a lack of funds.
