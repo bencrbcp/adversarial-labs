@@ -33,3 +33,12 @@ Beyond this lies one more theme: Network security learning is all too often sepa
 ### TODO
 - [ ] Write instructor resources to provision and teach the labs for students. This would involve a solution guide, as well as configuration details for each machine.
 - [ ] Deploy on a publicly accessible hypervisor/other provisioning solution
+
+# Image showcase
+![image](https://github.com/user-attachments/assets/3d145745-868b-405c-bba5-e1394a233dac)
+![image](https://github.com/user-attachments/assets/27de2baa-f989-4417-8b9c-7aaf3567296c)
+![image](https://github.com/user-attachments/assets/51e4d1f1-452a-42d4-83e5-eaad5f7b9bca)
+![image](https://github.com/user-attachments/assets/b1a498f6-7347-42a6-a273-23373dd8f4c6)
+![image](https://github.com/user-attachments/assets/04b4640a-fa56-4ebe-88c2-e70857fa7396)
+![image](https://github.com/user-attachments/assets/e2648191-e59a-4894-8f22-dc7b857eb5e5)
+
