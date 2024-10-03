@@ -12,7 +12,7 @@ But there lies another, more pressing road block to network security learning: t
 <br>
 <br>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/ffab9d9a-c64a-4b75-ad73-6e0718df4cd3" width="100" alt="purple circle picture"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ffab9d9a-c64a-4b75-ad73-6e0718df4cd3" width="30" alt="purple circle picture"></p>
 Beyond this lies one more theme: Network security learning is all too often separated strictly into "offensive" and "defensive" tracks. The goal with Adversarial Labs, in addition to providing freely accessible learning materials, is to demonstrate that a complete understanding can and should be obtained by combining *both* the offense and defense at the same time. In doing so, it seeks to provide a holistic approach to computer network security that leaves students with a more realistic outlook on the sphere of live cybersecurity conflict.
 
 
